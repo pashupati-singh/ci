@@ -5,8 +5,7 @@
   "scripts": {
     "start": "node src/server.js",
     "dev": "nodemon src/server.js",
-    "test": "jest",
-    "build":"npm run build"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
